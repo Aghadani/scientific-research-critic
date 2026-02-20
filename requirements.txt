@@ -1,0 +1,7 @@
+streamlit
+langgraph
+langchain-openai
+pymupdf4llm
+arxiv
+duckduckgo-search
+python-dotenv
